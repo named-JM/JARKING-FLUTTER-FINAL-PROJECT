@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "964272040303",
+    "firebase_url": "https://jarking-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jarking-firebase",
+    "storage_bucket": "jarking-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964272040303:android:3ab79cb6490f10d68da09a",
+        "android_client_info": {
+          "package_name": "com.example.final_project_for_flutter_by_jarling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrGcHq6qFRefp81_FR4gD_u1ueruGw8JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
